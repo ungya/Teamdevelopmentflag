@@ -4,14 +4,14 @@
   <_Project>
     <ProjectName val="teamdevcomponenetws"/>
     <VCProjectID val="0"/>
-    <VCActive val="Y"/>
+    <VCActive val="N"/>
     <WorkOffline val="N"/>
-    <VCUseGitPlugin val="Y"/>
+    <VCUseGitPlugin val="N"/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{A08EC4BB-47E1-4924-86AB-B1F769816A57}"/>
     <Version min="13020.10"/>
-    <SourceVersion val="14111.00"/>
+    <SourceVersion val="14121.00"/>
   </_Project>
 
 </Application>
